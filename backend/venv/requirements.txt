@@ -1,0 +1,6 @@
+Flask
+flask-cors
+instaloader
+yt-dlp
+pytubefix
+spotdl
